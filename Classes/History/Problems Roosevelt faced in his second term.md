@@ -30,7 +30,10 @@ Significance of
 	Summary 
 	Roosevelt's relationship with the Supreme Court became strained as it declared numerous New Deal legislations unconstitutional, culminating in the significant "Black Monday" decision. The Sick Chicken Case underscored the Court's stance on limiting federal intervention in state affairs, questioning the constitutionality of NIRA codes. This precedent set by the case suggested that the federal government lacked the authority to interfere in nationwide economic issues unless they directly affected interstate commerce. Roosevelt's Judicial Reform Bill aimed to reshape the Court but faced public and judicial opposition, leading to its rejection. Despite this setback, some justices retired, and the Court gradually shifted its stance, eventually upholding Roosevelt's key legislations. This marked a complex period of constitutional conflict and political maneuvering during Roosevelt's presidency.
 ### Agriculture and the dust bowl
-	ijij
+	All
+		Roosevelt suffered further problems with agriculture and rural poverty, only exacerbated by the problems with the AAA (Agricultural adjustment act), and the natural disaster that was the Dustbowl, all of this in conjunction lead to the biggest migration in US history, which came with many problems that the government had to deal with. 
+	AAA
+		The Agricultural Adjustment Act was generally considered sucessfull. However, various problems emerged as time went on. 
 ### Industry and labour tensions
 	nijij
 ### Wider economic recovery & the Roosevelt recession 
