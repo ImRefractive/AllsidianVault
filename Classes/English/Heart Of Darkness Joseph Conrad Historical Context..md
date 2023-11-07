@@ -1,3 +1,10 @@
+---
+tags:
+  - DP1
+  - English
+  - HOD
+---
+
   JOSEPH CONRAD  
   
 Generations: Who were Conrad’s parents, where were they from and what impact did they have on Conrad’s life?  

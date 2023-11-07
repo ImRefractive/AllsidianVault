@@ -1,3 +1,10 @@
+---
+tags:
+  - DP1
+  - MathAA
+excalidraw-plugin: parsed
+---
+
 [[1.A - Laws of exponent]]
 [[1.B - Number Operations]]
 [[1.C - Logarithms]]
