@@ -1,8 +1,7 @@
 ---
-
-excalidraw-plugin: parsed
-tags: [excalidraw]
-
+alieses: parsed
+tags:
+  - excalidraw
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
