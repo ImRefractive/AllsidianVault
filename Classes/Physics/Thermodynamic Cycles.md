@@ -19,4 +19,21 @@ $$\text{Work Is Also} = \frac{F}A \cdot D$$
 	State B (p = 8Pa, V = 10m^3)
 	State C (p = 8Pa, V = 25^3)
 
-$\propto$ 
+$\propto$
+
+## Laws of thermodynamics 
+* Zeroeth Law - IF cup A and cup B have reached thermal equilibrium, and Cup A and Cup C have also reached thermal equilibrium, Cup B and Cup C have reached thermal equilibrium 
+* First Law - Energy cannot be created or destroyed in an isolated system. The total energy of the system is constant. 
+$$Q = \Delta U + W$$
+* Second Law - The entropy of any isolated system always increases. Heat cannot spontaneously flow from a colder location to a hotter location. 
+* Third law - The entropy of a system approaches a constant value as the temperature approaches absolute zero. 
+
+## Gas and that 
+* A positive W suggests work is done on the gas
+* A negative W suggests that Work is done by the gas
+* When work is done by a system, the work done takes away from the internal energy of the system
+
+$$\Delta U = Q+W$$
+* $\Delta$U is the change in internal energy U of the system 
+* Q is the net heat transferred into the system - that is, Q is the sum of all heat transfer into and out of the system 
+* W is 
