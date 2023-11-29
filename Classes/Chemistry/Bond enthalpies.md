@@ -1,3 +1,4 @@
+
 ## Bond Enthalpy (BE) 
 Is defined as the energy required to break one mole of bonds by homolytic fission in one mole of gaseous covalent molecules under standard conditions.
 
