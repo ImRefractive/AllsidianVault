@@ -29,4 +29,17 @@
 ### Energy sources
 * Specific energy is how much energy in joules you can get per unit mass in kg from a fuel. Its unit are $Jkg^{-1}$ 
 * Energy density is how much energy in joules you get per unit volume. Its units are $Jm^{-3}$ 
-* 
+
+## Greenhouse gases
+Albedo - Genshin Impact character. In physics it refers to how:
+*When light strikes an object, some of it is absorbed, and some of it is scattered.
+	When light hits a mirror, nearly all of it will be scattered, yet some of it is still absorbed by the mirror.
+	If light hits a surface covered with soot, nearly all of it will be absorbed
+$$\text{Albedo in terms of scattered and incident power}$$
+$$\text{Albedo=} \dfrac{P_{Scattered}}{P_{Incident}}$$
+Landforms. vegetation, weather and seasons affect a planet's albedo.
+Earth's average albedo is 0.30
+
+The Equations
+$$\text{Emissivity} = \dfrac{\text{Power radiated per unit area}}{\delta AT^4}$$
+
