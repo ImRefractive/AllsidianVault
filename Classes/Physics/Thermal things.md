@@ -3,4 +3,4 @@ Explain, In terms of the energy of its molecules, why the temperature of a pure 
 Define Thermal capacity.
 	The amount of heat energy required to heat up the substance by one degree 
 J/Temperature/mass
-$$Specific~heat~capacity= J\T(Celcius/Kelvin)*M(mass)$$
+$$Specific~heat~capacity= J/T(Celcius/Kelvin)*M(mass)$$

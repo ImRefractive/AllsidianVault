@@ -4,8 +4,8 @@ Conduction (For Solids)
 	This only works in a solid and thermal energy always moves from high to low energy
 	- Fourier's Law of Heat Conduction
 	- $\Delta$Q/ $\Delta$t: Rate of heat transfer(energy per unit time)
-	- \frac{$\Delta$Q}{$\Delta$t}
-	- 
+	- $\frac{\Delta Q}{\Delta t}$
+	
 Convection (For liquids)
 	Temperature is a measure of the average kinetic energy of the particles within a substance
 	So a substance with a high temperature is able to give some of the energy to the particles next to it and so on.
