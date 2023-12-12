@@ -11,9 +11,7 @@ $$\text{Work Is Also} = \frac{F}A \cdot D$$
 * Isothermal is when you compress the volume of the container, the pressure rises, and the volume decreases, and if done slow enough, the temperature doesn't change
 * adiabatic is when no heat is transferred into or out of the system, but work done on or by the system will eventually lead to changes in its temperature, without any of this temperature change coming from the environment. 
 ## Actual Thermodynamic Cycles part
-	We us
-	
-	e graphs to sketch the outcome of changes in gas thermodynamics - eg. isobaric, isocharic, isothermic conditions in one graph 
+	We use graphs to sketch the outcome of changes in gas thermodynamics - eg. isobaric, isocharic, isothermic conditions in one graph 
 	A fixed quantity of a gas undergoes a cyce by changing between the following three states:
 	State A (p = 2Pa, V = $10m^3$)
 	State B (p = 8Pa, V = 10m^3)

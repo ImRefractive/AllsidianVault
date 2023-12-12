@@ -43,3 +43,22 @@ Earth's average albedo is 0.30
 The Equations
 $$\text{Emissivity} = \dfrac{\text{Power radiated per unit area}}{\delta AT^4}$$
 
+## Greenhouse gases part 2 
+* Water vapour contributes the most to the greenhouse effect in our atmosphere
+* Most of this water vapour is natural
+* The gases that contribute the most in order are
+* $H_2O$ 
+* $CO_2$
+* $N_2O$
+* $CH_4$
+* $O_3$
+
+## Global Warming Potential
+For human induced climate change, the gases all contain various potentials. Not all the gases are equal
+$CH_4$ is 23 more effective at heating our atmosphere than $CO_2$
+$N_2O$ is 296 times more effective
+$CO_2$ is in the atmosphere at far higher rates (400ppm (Parts per million))
+*Anthropogenic sources
+Meaning originating in human activity
+
+️️️
